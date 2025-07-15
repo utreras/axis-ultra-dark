@@ -1,0 +1,44 @@
+{
+  "name": "vambe-ai-ultra-dark",
+  "displayName": "Vambe AI Ultra Dark",
+  "description": "An ultra dark theme with deep black backgrounds and Vambe Axis vibes",
+  "version": "1.0.0",
+  "publisher": "PabloUtrerasUrrutia",
+  "author": {
+    "name": "Pablo Utreras Urrutia"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": ["Themes"],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ultra dark",
+    "vambe",
+    "ai",
+    "purple",
+    "black"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0c0d0d",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utreras/vambe-ai-ultra-dark"
+  },
+  "bugs": {
+    "url": "https://github.com/utreras/vambe-ai-ultra-dark/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vambe AI Ultra Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vambe-ai-ultra-dark-color-theme.json"
+      }
+    ]
+  }
+}
