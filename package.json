@@ -9,7 +9,7 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utreras/vambe-ai-ultra-dark"
+    "url": "https://github.com/utreras/axis-ultra-dark"
   },
   "keywords": ["theme", "dark", "accessibility", "astigmatism", "vambe", "axis", "cursor", "vscode"],
   "engines": {
