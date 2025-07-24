@@ -103,7 +103,7 @@ Issues and pull requests are welcome. When contributing:
 
 ## Credits
 
-- **UI Design**: Ignacio Uteras Urrutia
+- **UI Design**: Ignacio Utreras Urrutia
 - **Syntax Colors**: Based on Mariana theme by Dmitri Voronianski (Sublime HQ Pty Ltd)
 - **Publisher**: Vambe AI, Inc.
 
